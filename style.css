@@ -1,0 +1,96 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #da1e1e;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #d17777;
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+nav ul {
+    display: flex;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+nav ul li {
+    margin-right: 20px;
+}
+
+.logo {
+    width: 90px;
+}
+
+h1 {
+    margin: 0;
+    text-align: center;
+}
+
+h2 {
+    font-size: 1.2em;
+    margin: 0;
+}
+
+main {
+    padding: 20px;
+}
+
+section {
+    margin-bottom: 20px;
+}
+
+section h2 {
+    font-size: 1.5em;
+    margin-bottom: 10px;
+}
+img {
+    width: 200px; 
+    height: 150px; 
+}
+
+#projects ul,
+#services ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+.vContainer {
+    width: 100%;
+    max-width: 800px;
+    margin: 0 auto;
+  }
+
+  .vContainer video {
+    width: 100%;
+    height: auto;
+  }
+
+#contact {
+    text-align: justify;
+}
+.founder-picture {
+    width: 200px; 
+    margin-top: 10px; 
+}
+
+footer {
+    background-color: #d17777;
+    padding: 10px;
+    text-align: center;
+}
+
+footer a {
+    text-decoration: none;
+    color: #333;
+}
+
+footer a:hover {
+    color: #000;
+}
