@@ -9,7 +9,7 @@ body {
 
 /* Header styling with technological theme */
 header {
-    background-color: #282c34;
+    background-color: #cfd5e2;
     padding: 20px;
     display: flex;
     justify-content: space-between;
@@ -21,7 +21,6 @@ header {
     width: 100%;
     z-index: 1000; 
     transition: background-color 0.3s ease;
-    color: white;
 }
 
 nav ul {
